@@ -6,9 +6,9 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/qnco/guestbook
+      repoURL: ghcr.io/d8m93uqnco/guestbook
       imageSelectionStrategy: SemVer
       allowTags: ^v?[0-9]+\.[0-9]+\.[0-9]+([\+-].*)?$
   - git:
-      repoURL: https://github.com/qnco/kargo-advanced.git
+      repoURL: https://github.com/d8m93uqnco/kargo-advanced.git
       branch: main

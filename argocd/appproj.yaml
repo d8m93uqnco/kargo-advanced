@@ -15,4 +15,4 @@ spec:
   - group: '*'
     kind: '*'
   sourceRepos:
-  - https://github.com/qnco/kargo-advanced.git
+  - https://github.com/d8m93uqnco/kargo-advanced.git

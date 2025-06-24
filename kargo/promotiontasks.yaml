@@ -6,11 +6,11 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/qnco/kargo-advanced.git
+    value: https://github.com/d8m93uqnco/kargo-advanced.git
   - name: branch
     value: main
   - name: image
-    value: ghcr.io/qnco/guestbook
+    value: ghcr.io/d8m93uqnco/guestbook
   steps:
   # Clone the Git repository that contains the Kustomize configuration
   # to the ./src directory, and the environment configuration to ./out.
